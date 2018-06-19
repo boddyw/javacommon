@@ -15,6 +15,6 @@ Thank `You` . Please `Call` Me `Coder`  突出显示<br>
 >>>>>满二叉树
 
 ### 复选框
-. [x] C
-. [x] java
-. [] C
+* [x] C
+* [x] java
+* [] python
