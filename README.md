@@ -14,10 +14,15 @@ Thank `You` . Please `Call` Me `Coder`  突出显示<br>
 >>>>平衡二叉树  
 >>>>>满二叉树
 
-### 项目符号列表
-* 1 read
-* 2 yellow
-* 3 blue
+### 项目符号列表1
+*  read
+*  yellow
+*  blue
+
+### 项目符号列表2
+1. red
+2. yellow
+3. blue
 
 ### 复选框
 * [x] C
